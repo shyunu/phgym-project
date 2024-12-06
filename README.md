@@ -1,43 +1,29 @@
 # 헬스장 회원 관리 및 회원 서비스 플랫폼 (관리자/회원)
 
-- **개발 기간** : 2024/07/03 ~ 07/31
-
 ## 목차
-1. [프로젝트 소개](#프로젝트소개)
-2. [개발 환경](#개발환경)
-3. [기술 스택](#기술스택)
-4. [구현 화면](#구현화면)
+1. [프로젝트 소개](#ph-gym-프로젝트-소개)
+2. [개발 일정](#개발-일정)
+3. [팀원 구성](#팀원-구성)
+4. [개발환경 및 기술스택](#개발환경-및-기술스택)
+6. [프로젝트 설계](#프로젝트-설계)
+7. [화면UI](#화면-ui)
+8. [프로젝트 발표 ppt](#프로젝트-발표-ppt)
+
 <br>
 
-## 프로젝트 소개
+## PH-GYM 프로젝트 소개
 
 PHGYM은 효율적인 헬스장 운영을 위한 웹 기반 시스템입니다. 회원들이 헬스장을 보다 편리하게 이용할 수 있도록 하기 위해 웹페이지를 개발하였습니다. 회원들은 웹사이트를 통해 개인 계정에 접근하고, 스케줄을 관리하며, 다양한 헬스장 서비스에 쉽게 접근할 수 있습니다.
 
 또한, 관리자는 관리자 모드를 통해 회원 정보를 효율적으로 관리하고, 각 담당 회원의 스케줄을 관리하여 보다 효과적인 결과를 도출할 수 있습니다. 이 시스템은 헬스장 운영의 효율성을 높이고, 회원들에게 최상의 서비스를 제공하는 것을 목표로 하고 있습니다.
 
 <br>
-  
-## 개발환경
 
-| 항목 | 내용 |
-|---|---|
-| **OS** | Windows 10 / macOS |
-| **IDE** | Visual Studio Code / Eclipse |
-| **Version Control** | GitHub |
-| **Build Tool** | Maven / Gradle |
-| **Database** | OracleDB |
-| **Server** | Apache Tomcat |
+## 개발 일정
 
-## 기술스택
-
-| 항목 | 내용 |
-|---|---|
-| **Frontend** | HTML5, CSS3, JavaScript (ES6), Bootstrap |
-| **Backend** | Java (JDK 11), Eclipse(4.31.0) |
-| **Database** | OracleDB |
+- **개발 기간** : 2024/07/03 ~ 07/31
 
 <br>
-
 
 ## 팀원 구성
 
@@ -49,9 +35,38 @@ PHGYM은 효율적인 헬스장 운영을 위한 웹 기반 시스템입니다. 
 
 </div>
 
+
+<br>
+  
+## 개발환경 및 기술스택
+
+| 항목 | 내용 |
+|---|---|
+| **OS** | Windows 10 / macOS |
+| **IDE** | Visual Studio Code / Eclipse |
+| **Version Control** | GitHub |
+| **Build Tool** | Maven / Gradle |
+| **Database** | OracleDB |
+| **Server** | Apache Tomcat |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6), Bootstrap |
+| **Backend** | Java (JDK 11), Eclipse(4.31.0) |
+| **Database** | OracleDB |
+
 <br>
 
-## 프로젝트 구현 화면
+## 프로젝트 설계
+### 🔗 요구사항 명세서
+<img src="./images/gym-doc.png" alt="요구사항 명세서" />
+
+### 🔗 화면 구상(Figma)
+<img src="./images/figma.png" alt="figma" />
+
+
+
+
+<br>
+
+## 화면 UI
 
 ### 로그인 화면
 ![로그인 화면](./images/login.png)
