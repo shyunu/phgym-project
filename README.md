@@ -32,6 +32,7 @@ PHGYM은 효율적인 헬스장 운영을 위한 웹 기반 시스템입니다. 
 | **김수현** | **임혜주** | **신지윤** | **남상혁** | **최해찬** |
 | :------: |  :------: | :------: | :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/172233951?s=64&v=4" height=100> <br/> @shyunu](https://github.com/suhyun-kim9) | [<img src="https://avatars.githubusercontent.com/u/129069292?v=4" height=100> <br/> @hyejux](https://github.com/hyejux) | [<img src="https://avatars.githubusercontent.com/u/80537541?s=64&v=4" height=100> <br/> @jishin14](https://github.com/jishin14) | [<img src="https://avatars.githubusercontent.com/u/180147317?v=4" height=100> <br/> @sxxxhyuk](https://github.com/sxxxhyuk) | [<img src="https://avatars.githubusercontent.com/u/172337052?v=4" height=100> <br/> @whfh3832](https://github.com/whfh3832) |
+| 프론트엔드 디자인 총괄 <br> 예약/결제페이지 연동 및 구현 <br> 프로모션별 결제화면 구현 <br> 카카오맵 api 연동 |  프론트엔드 디자인 총괄 <br> 관리자페이지 구현 <br> 회원PT 일정 확인 구현 <br> 회원정보 기능 구현 | 백엔드 총괄 <br> 회원페이지 구현 <br> 출석체크 기능 구현 <br> PT 예약 및 양도 기능 구현 | 로그인 페이지 구현 <br> 회원가입 기능 구현 <br> 결과보고서 작성 | 게시판 페이지 구현 <br> 페이지네이션 구현 <br> 결과보고서 작성 |
 
 </div>
 
